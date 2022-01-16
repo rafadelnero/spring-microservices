@@ -1,25 +1,5 @@
 # Spring Microservices - V2 - Microservices + Spring Boot + Spring Cloud + Docker + Kubernetes
 
-#### V2 of our most popular course - Microservices + Spring Cloud + Docker + Kubernetes
-
-[![Image](https://www.springboottutorial.com/images/Course-Master-Microservices-with-Spring-Boot-and-Spring-Cloud.png "Master Microservices with Spring Boot and Spring Cloud")](https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/)
-
-Learn how to create awesome Microservices and RESTful web services with Spring and Spring Boot.
-
-Update Jan 2021: Docker and Kubernetes added to the course!
-
-## What will you learn?
-
-- Docker
-- Kubernetes
-- Spring Boot 2.4.x+ & Spring Cloud 2020.x+
-  - Service Registry using Eureka Naming Server
-  - Load Balancing with Spring Cloud LoadBalancer (replacing Ribbon)
-  - API Gateway with Spring Cloud Gateway (instead of Zuul)
-  - Circuit Breaker with Resilience4j (instead of Hystrix)
-  - Distributed Tracing with Zipkin
-  - Asynchronous Communication using Rabbit MQ
-
 #### Microservices with Spring Cloud - V2
 
 -  Step 01 - Setting up Limits Microservice
@@ -33,7 +13,7 @@ Update Jan 2021: Docker and Kubernetes added to the course!
 -  Step 09 - Introduction to Currency Conversion and Currency Exchange Microservices
 -  Step 10 - Setting up Currency Exchange Microservice
 -  Step 11 - Create a simple hard coded currency exchange service
--  Step 12 - Setting up Dynamic Port in the the Response
+-  Step 12 - Setting up Dynamic Port in the Response
 -  Step 13 - Configure JPA and Initialized Data
 -  Step 14 - Create a JPA Repository
 -  Step 15 - Setting up Currency Conversion Microservice
